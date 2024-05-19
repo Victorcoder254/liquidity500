@@ -1,0 +1,6 @@
+.env
+Env/
+staticfiles/
+media/
+db.sqlite3
+__pycache__/
